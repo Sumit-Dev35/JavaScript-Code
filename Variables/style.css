@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+button{
+  padding: 10px 20px;
+  margin: 200px;
+  background-color: aqua;
+  border-radius: 50px;
+  cursor: pointer;
+}
