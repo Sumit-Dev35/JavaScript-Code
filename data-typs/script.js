@@ -10,3 +10,5 @@ console.log(typeof 123n);
 isJavaScriptFun = "YES!";
 console.log(isJavaScriptFun, typeof isJavaScriptFun);
 console.log(typeof ("si" + 9));
+let age;
+console.log(age);
