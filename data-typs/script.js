@@ -1,0 +1,12 @@
+let isJavaScriptFun = false;
+console.log(isJavaScriptFun);
+console.log(typeof true);
+console.log(typeof 1.89);
+console.log(typeof "sumit");
+console.log(typeof undefined);
+console.log(typeof null);
+console.log(typeof Symbol(2));
+console.log(typeof 123n);
+isJavaScriptFun = "YES!";
+console.log(isJavaScriptFun, typeof isJavaScriptFun);
+console.log(typeof ("si" + 9));
