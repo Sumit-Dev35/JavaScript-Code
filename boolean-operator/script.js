@@ -11,3 +11,6 @@ if (shouldDrive) {
 } else {
   console.log("Someone else shoudl drive !");
 }
+
+const isTired = true;
+console.log(hasDriversLicence || hasGoodVison || isTired);
