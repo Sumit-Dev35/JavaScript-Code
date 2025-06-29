@@ -1,7 +1,7 @@
-// const friends=[1,2,3,4,5];
-// console.log(friends);
-// friends.push(6);
-// console.log(friends);
+const friends=[1,2,3,4,5];
+console.log(friends);
+friends.push(6);
+console.log(friends);
 
 const arr=[1,2,3,4,5];
 console.log(arr.push(6));
